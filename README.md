@@ -8,3 +8,8 @@ This repo contains interactive examples, demo scripts, and practical exercises d
 - Creating, using, and managing databases and tables
 - Writing SQL queries
 - Managing data with real-world examples
+
+## Project Links
+
+- [My Website](https://example.com)
+- [Live Demo](https://example2.com) 
